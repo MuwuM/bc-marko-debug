@@ -9,7 +9,7 @@
     "precompile": "node ./precompile.js"
   },
   "author": "",
-  "license": "ISC",
+  "license": "UNLICENSED",
   "dependencies": {
     "@babel/core": "^7.9.6",
     "@babel/preset-env": "^7.9.6",
