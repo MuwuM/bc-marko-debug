@@ -1,0 +1,17 @@
+{
+    "editor.tabSize": 2,
+    "files.exclude": {
+        "**/*.marko.js": true
+    },
+    "[marko]": {
+        "editor.formatOnSave": true
+    },
+    "files.associations":{
+        "*.marko":"marko"
+    },
+    "marko.beautify.indent": "  ",
+    "emmet.includeLanguages": {
+        "marko":"html"
+    },
+    "css.lint.unknownProperties": "warning"
+}

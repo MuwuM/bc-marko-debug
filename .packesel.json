@@ -1,0 +1,6 @@
+{
+  "composeFile":"docker-compose.yml",
+  "env":{
+    "COMPOSE_PROJECT_NAME":"dbg_${DRONE_BRANCH}"
+  }
+}

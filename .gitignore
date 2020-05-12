@@ -1,0 +1,10 @@
+node_modules
+keys
+**/*.marko.js
+static
+.cache
+data
+games-data
+createPatch.bat
+*.patch
+.git-rewrite

@@ -1,0 +1,11 @@
+import frameBase from "./frame-base.marko"
+
+<${frameBase} ...input>
+  <@frame>
+    <${input.fullPageMenues.renderBody}/>
+    <div>
+      <h1>Marko JS Test</h1>
+      <${input.content.renderBody}/>
+    </div>
+  </@frame>
+</>
