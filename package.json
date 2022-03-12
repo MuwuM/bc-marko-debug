@@ -14,7 +14,7 @@
     "@babel/core": "^7.9.6",
     "@babel/preset-env": "^7.9.6",
     "@lasso/marko-taglib": "^1.0.15",
-    "browserslist": "^4.12.0",
+    "browserslist": "^4.16.5",
     "caniuse-lite": "^1.0.30001055",
     "core-js": "^3.6.5",
     "core-js-builder": "^3.6.5",
